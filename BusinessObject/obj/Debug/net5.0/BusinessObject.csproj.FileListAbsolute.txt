@@ -1,0 +1,36 @@
+C:\Users\tvfep\source\repos\Solution1\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+C:\Users\tvfep\source\repos\Solution1\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\tvfep\source\repos\Solution1\BusinessObject\bin\Debug\net5.0\ref\BusinessObject.dll
+C:\Users\tvfep\source\repos\Solution1\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\tvfep\source\repos\Solution1\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\tvfep\source\repos\Solution1\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvfep\source\repos\Solution1\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\tvfep\source\repos\Solution1\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+C:\Users\tvfep\source\repos\Solution1\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\tvfep\source\repos\Solution1\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+C:\Users\tvfep\source\repos\Solution1\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+C:\Users\tvfep\source\repos\Solution1\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+C:\Users\ASUS\source\repos\member-management\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+C:\Users\ASUS\source\repos\member-management\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\ASUS\source\repos\member-management\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\ASUS\source\repos\member-management\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\member-management\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\member-management\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\member-management\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\member-management\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\member-management\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+C:\Users\ASUS\source\repos\member-management\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+C:\Users\ASUS\source\repos\member-management\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+C:\Users\ASUS\source\repos\member-management\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll

@@ -1,0 +1,12 @@
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\bin\Debug\net5.0\AppSetting.Json.deps.json
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\bin\Debug\net5.0\AppSetting.Json.dll
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\bin\Debug\net5.0\ref\AppSetting.Json.dll
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\bin\Debug\net5.0\AppSetting.Json.pdb
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\obj\Debug\net5.0\AppSetting.Json.csproj.AssemblyReference.cache
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\obj\Debug\net5.0\AppSetting.Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\obj\Debug\net5.0\AppSetting.Json.AssemblyInfoInputs.cache
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\obj\Debug\net5.0\AppSetting.Json.AssemblyInfo.cs
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\obj\Debug\net5.0\AppSetting.Json.csproj.CoreCompileInputs.cache
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\obj\Debug\net5.0\AppSetting.Json.dll
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\obj\Debug\net5.0\ref\AppSetting.Json.dll
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\obj\Debug\net5.0\AppSetting.Json.pdb
