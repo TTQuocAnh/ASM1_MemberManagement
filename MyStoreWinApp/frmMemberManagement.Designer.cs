@@ -154,6 +154,7 @@ namespace MyStoreWinApp
             // 
             // dvgMemberList
             // 
+            this.dvgMemberList.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dvgMemberList.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dvgMemberList.Location = new System.Drawing.Point(16, 360);
             this.dvgMemberList.Name = "dvgMemberList";
@@ -164,32 +165,35 @@ namespace MyStoreWinApp
             // 
             // btnLoad
             // 
+            this.btnLoad.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnLoad.Location = new System.Drawing.Point(127, 314);
             this.btnLoad.Name = "btnLoad";
             this.btnLoad.Size = new System.Drawing.Size(94, 29);
             this.btnLoad.TabIndex = 15;
             this.btnLoad.Text = "Load";
-            this.btnLoad.UseVisualStyleBackColor = true;
+            this.btnLoad.UseVisualStyleBackColor = false;
             this.btnLoad.Click += new System.EventHandler(this.btnLoad_Click);
             // 
             // btnNew
             // 
+            this.btnNew.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnNew.Location = new System.Drawing.Point(227, 314);
             this.btnNew.Name = "btnNew";
             this.btnNew.Size = new System.Drawing.Size(94, 29);
             this.btnNew.TabIndex = 16;
             this.btnNew.Text = "New";
-            this.btnNew.UseVisualStyleBackColor = true;
+            this.btnNew.UseVisualStyleBackColor = false;
             this.btnNew.Click += new System.EventHandler(this.btnNew_Click);
             // 
             // btnDelete
             // 
+            this.btnDelete.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnDelete.Location = new System.Drawing.Point(327, 314);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(94, 29);
             this.btnDelete.TabIndex = 17;
             this.btnDelete.Text = "Delete";
-            this.btnDelete.UseVisualStyleBackColor = true;
+            this.btnDelete.UseVisualStyleBackColor = false;
             this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
             // btnClose
@@ -199,7 +203,7 @@ namespace MyStoreWinApp
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(94, 29);
             this.btnClose.TabIndex = 18;
-            this.btnClose.Text = "Close";
+            this.btnClose.Text = "Logout";
             this.btnClose.UseVisualStyleBackColor = false;
             this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
             // 
@@ -246,11 +250,11 @@ namespace MyStoreWinApp
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Trebuchet MS", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label1.Font = new System.Drawing.Font("Trebuchet MS", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label1.ForeColor = System.Drawing.Color.Blue;
-            this.label1.Location = new System.Drawing.Point(127, 26);
+            this.label1.Location = new System.Drawing.Point(84, 26);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(205, 26);
+            this.label1.Size = new System.Drawing.Size(252, 32);
             this.label1.TabIndex = 22;
             this.label1.Text = "Member Information";
             // 
@@ -337,11 +341,11 @@ namespace MyStoreWinApp
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Trebuchet MS", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label4.Font = new System.Drawing.Font("Trebuchet MS", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label4.ForeColor = System.Drawing.Color.Blue;
-            this.label4.Location = new System.Drawing.Point(537, 139);
+            this.label4.Location = new System.Drawing.Point(537, 138);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(176, 26);
+            this.label4.Size = new System.Drawing.Size(190, 27);
             this.label4.TabIndex = 31;
             this.label4.Text = "Filter and Search";
             // 
@@ -374,6 +378,7 @@ namespace MyStoreWinApp
             this.label5.Size = new System.Drawing.Size(184, 80);
             this.label5.TabIndex = 33;
             this.label5.Text = "Member \r\nManagement";
+            this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // cboSearchFilter

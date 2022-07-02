@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bu7Xxiz6uEbayNPIT1tCb4CieIWmrlMXIOYfwwJgTF9+IX8GF0mrcUj9Po3MtDEXNPe7D5By+tIIzo6kCC+RFQ==",
+  "dgSpecHash": "4zp5wEYu76WQvWQ4BNgSx0dNuN1luxGIQ/Fsw4A12swEbMaOk28Aq0KMw+TF2ANClWT5YgUK4pt4JGdjvoGckA==",
   "success": true,
-  "projectFilePath": "D:\\VisualStudio_SourceCode\\FPT_Source C#\\ASM1_PRN\\ASM1_PRN3\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "D:\\VisualStudio_SourceCode\\FPT_Source C#\\ASM1_MemberManagement\\MemberManagement\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\at050\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\at050\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

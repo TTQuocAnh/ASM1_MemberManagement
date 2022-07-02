@@ -51,6 +51,7 @@ namespace MyStoreWinApp
 
             if (txtUserName.Text == email && txtPassword.Text == password)
             {
+                MessageBox.Show("Login successfull with role ADMIN", "Login", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 new frmMemberManagement().Show();
                 this.Hide();
             }else
@@ -67,9 +68,9 @@ namespace MyStoreWinApp
                             InsertOrUpdate = true,
                             MemberInfo = memberInfo,
                             MemberRepository = memberRepository
-                            
-
+                           
                         };
+                        MessageBox.Show("Login successfull with role User", "Login", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         frmMemDetails.ShowDialog();
                     }
                     else

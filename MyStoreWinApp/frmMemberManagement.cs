@@ -138,7 +138,12 @@ namespace MyStoreWinApp
 
         private void btnClose_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            DialogResult dr = MessageBox.Show("Are you sure logout ?? ", "Confirm logout", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Question);
+            if (dr == DialogResult.Yes)
+            {
+                this.Hide();
+                new frmLogin().Show();
+            }
         }
 
         private void btnNew_Click(object sender, EventArgs e)

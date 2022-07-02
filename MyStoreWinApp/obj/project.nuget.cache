@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cg6l1wWBMjeUKsIx/o14jVK/9RN6Cq9dXaa9wTxQxf5BdM/ghsusBLbYOMIGYF9pImlBJ+SJAVDjshFz0MpE8Q==",
+  "dgSpecHash": "rQSH8h2NqfAn0Evqyuc/hhySZsBFW9EoF4g+MuG7KfcAqHuUwNF+sy0T3YNu94uUndAqecjL064uoHSRegNUlQ==",
   "success": true,
-  "projectFilePath": "D:\\VisualStudio_SourceCode\\FPT_Source C#\\ASM1_PRN\\ASM1_PRN3\\MyStoreWinApp\\MyStoreWinApp.csproj",
+  "projectFilePath": "D:\\VisualStudio_SourceCode\\FPT_Source C#\\ASM1_MemberManagement\\MemberManagement\\MyStoreWinApp\\MyStoreWinApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\at050\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\at050\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

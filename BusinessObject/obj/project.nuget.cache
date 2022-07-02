@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RNDlw9M+v6TSKfzBikebnVJYZy/kfNtGRkuUCCLHT4MW/pFS7SPzx8OLAfda5iHPfv8iY122C38/hpoePE+NTg==",
+  "dgSpecHash": "Q9AB+Ny5E1FH43YK50Vpe3GKR9kXktV6BZM3vJPTx5a96ejeTAqGZMXRNN5TOebIr0YN1DjwuVA/dSQ9YGJmuQ==",
   "success": true,
-  "projectFilePath": "D:\\VisualStudio_SourceCode\\FPT_Source C#\\ASM1_PRN\\ASM1_PRN3\\BusinessObject\\BusinessObject.csproj",
+  "projectFilePath": "D:\\VisualStudio_SourceCode\\FPT_Source C#\\ASM1_MemberManagement\\MemberManagement\\BusinessObject\\BusinessObject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

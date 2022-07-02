@@ -61,3 +61,16 @@ D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\AppSetting.Json\obj\
 D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\AppSetting.Json\obj\Debug\net5.0-windows\refint\AppSetting.Json.dll
 D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.pdb
 D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\AppSetting.Json\obj\Debug\net5.0-windows\ref\AppSetting.Json.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_MemberManagement\MemberManagement\AppSetting.Json\bin\Debug\net5.0-windows\appsetting.json
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_MemberManagement\MemberManagement\AppSetting.Json\bin\Debug\net5.0-windows\AppSetting.Json.deps.json
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_MemberManagement\MemberManagement\AppSetting.Json\bin\Debug\net5.0-windows\AppSetting.Json.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_MemberManagement\MemberManagement\AppSetting.Json\bin\Debug\net5.0-windows\AppSetting.Json.pdb
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_MemberManagement\MemberManagement\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.csproj.AssemblyReference.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_MemberManagement\MemberManagement\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_MemberManagement\MemberManagement\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.AssemblyInfoInputs.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_MemberManagement\MemberManagement\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.AssemblyInfo.cs
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_MemberManagement\MemberManagement\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.csproj.CoreCompileInputs.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_MemberManagement\MemberManagement\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_MemberManagement\MemberManagement\AppSetting.Json\obj\Debug\net5.0-windows\refint\AppSetting.Json.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_MemberManagement\MemberManagement\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.pdb
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_MemberManagement\MemberManagement\AppSetting.Json\obj\Debug\net5.0-windows\ref\AppSetting.Json.dll

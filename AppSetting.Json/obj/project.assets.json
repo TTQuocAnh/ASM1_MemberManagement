@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VisualStudio_SourceCode\\FPT_Source C#\\ASM1_PRN\\ASM1_PRN3\\AppSetting.Json\\AppSetting.Json.csproj",
+      "projectUniqueName": "D:\\VisualStudio_SourceCode\\FPT_Source C#\\ASM1_MemberManagement\\MemberManagement\\AppSetting.Json\\AppSetting.Json.csproj",
       "projectName": "AppSetting.Json",
-      "projectPath": "D:\\VisualStudio_SourceCode\\FPT_Source C#\\ASM1_PRN\\ASM1_PRN3\\AppSetting.Json\\AppSetting.Json.csproj",
+      "projectPath": "D:\\VisualStudio_SourceCode\\FPT_Source C#\\ASM1_MemberManagement\\MemberManagement\\AppSetting.Json\\AppSetting.Json.csproj",
       "packagesPath": "C:\\Users\\at050\\.nuget\\packages\\",
-      "outputPath": "D:\\VisualStudio_SourceCode\\FPT_Source C#\\ASM1_PRN\\ASM1_PRN3\\AppSetting.Json\\obj\\",
+      "outputPath": "D:\\VisualStudio_SourceCode\\FPT_Source C#\\ASM1_MemberManagement\\MemberManagement\\AppSetting.Json\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

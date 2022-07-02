@@ -76,5 +76,10 @@ namespace MyStoreWinApp
         {
 
         }
+
+        private void lbCity_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
