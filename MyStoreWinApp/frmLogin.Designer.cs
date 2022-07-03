@@ -99,7 +99,7 @@ namespace MyStoreWinApp
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(190, 40);
             this.btnLogin.TabIndex = 5;
-            this.btnLogin.Text = "LOGIN";
+            this.btnLogin.Text = "&LOGIN";
             this.btnLogin.UseVisualStyleBackColor = false;
             this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
             // 
@@ -112,7 +112,7 @@ namespace MyStoreWinApp
             this.lbExit.Name = "lbExit";
             this.lbExit.Size = new System.Drawing.Size(48, 25);
             this.lbExit.TabIndex = 6;
-            this.lbExit.Text = "Exit";
+            this.lbExit.Text = "&Exit";
             this.lbExit.Click += new System.EventHandler(this.lbExit_Click);
             // 
             // panel1
