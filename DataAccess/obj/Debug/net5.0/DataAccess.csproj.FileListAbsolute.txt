@@ -1,0 +1,75 @@
+C:\Users\tvfep\source\repos\Solution1\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\tvfep\source\repos\Solution1\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvfep\source\repos\Solution1\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\tvfep\source\repos\Solution1\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\tvfep\source\repos\Solution1\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\tvfep\source\repos\Solution1\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\tvfep\source\repos\Solution1\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\tvfep\source\repos\Solution1\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\tvfep\source\repos\Solution1\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\tvfep\source\repos\Solution1\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\tvfep\source\repos\Solution1\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\tvfep\source\repos\Solution1\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\tvfep\source\repos\Solution1\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\tvfep\source\repos\Solution1\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\tvfep\source\repos\Solution1\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\ASUS\source\repos\member-management\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\ASUS\source\repos\member-management\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\ASUS\source\repos\member-management\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\ASUS\source\repos\member-management\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\ASUS\source\repos\member-management\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\ASUS\source\repos\member-management\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\member-management\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\member-management\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\member-management\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\member-management\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\member-management\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\ASUS\source\repos\member-management\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\ASUS\source\repos\member-management\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\ASUS\source\repos\member-management\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\ASUS\source\repos\member-management\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll

@@ -1,0 +1,63 @@
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.AssemblyInfoInputs.cache
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.AssemblyInfo.cs
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.csproj.CoreCompileInputs.cache
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\bin\Debug\net5.0-windows\AppSetting.Json.deps.json
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\bin\Debug\net5.0-windows\AppSetting.Json.dll
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\bin\Debug\net5.0-windows\ref\AppSetting.Json.dll
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\bin\Debug\net5.0-windows\AppSetting.Json.pdb
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.dll
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\obj\Debug\net5.0-windows\ref\AppSetting.Json.dll
+C:\Users\tvfep\source\repos\Solution1\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.pdb
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\AppSetting.Json\bin\Debug\net5.0-windows\appsetting.json
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\AppSetting.Json\bin\Debug\net5.0-windows\AppSetting.Json.deps.json
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\AppSetting.Json\bin\Debug\net5.0-windows\AppSetting.Json.dll
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\AppSetting.Json\bin\Debug\net5.0-windows\ref\AppSetting.Json.dll
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\AppSetting.Json\bin\Debug\net5.0-windows\AppSetting.Json.pdb
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.csproj.AssemblyReference.cache
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.AssemblyInfoInputs.cache
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.AssemblyInfo.cs
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.csproj.CoreCompileInputs.cache
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.dll
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\AppSetting.Json\obj\Debug\net5.0-windows\ref\AppSetting.Json.dll
+C:\Users\tvfep\source\repos\Ass01_SE1625_SE151054\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.pdb
+C:\Users\ASUS\source\repos\member-management\AppSetting.Json\bin\Debug\net5.0-windows\appsetting.json
+C:\Users\ASUS\source\repos\member-management\AppSetting.Json\bin\Debug\net5.0-windows\AppSetting.Json.deps.json
+C:\Users\ASUS\source\repos\member-management\AppSetting.Json\bin\Debug\net5.0-windows\AppSetting.Json.dll
+C:\Users\ASUS\source\repos\member-management\AppSetting.Json\bin\Debug\net5.0-windows\AppSetting.Json.pdb
+C:\Users\ASUS\source\repos\member-management\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\member-management\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\member-management\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\member-management\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\member-management\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\member-management\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.dll
+C:\Users\ASUS\source\repos\member-management\AppSetting.Json\obj\Debug\net5.0-windows\refint\AppSetting.Json.dll
+C:\Users\ASUS\source\repos\member-management\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.pdb
+C:\Users\ASUS\source\repos\member-management\AppSetting.Json\obj\Debug\net5.0-windows\ref\AppSetting.Json.dll
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\AppSetting.Json\bin\Debug\net5.0-windows\appsetting.json
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\AppSetting.Json\bin\Debug\net5.0-windows\AppSetting.Json.deps.json
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\AppSetting.Json\bin\Debug\net5.0-windows\AppSetting.Json.dll
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\AppSetting.Json\bin\Debug\net5.0-windows\AppSetting.Json.pdb
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.csproj.AssemblyReference.cache
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.GeneratedMSBuildEditorConfig.editorconfig
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.AssemblyInfoInputs.cache
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.AssemblyInfo.cs
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.csproj.CoreCompileInputs.cache
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.dll
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\AppSetting.Json\obj\Debug\net5.0-windows\refint\AppSetting.Json.dll
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.pdb
+D:\Slot_19_20_EntityFramework\DemoDatabaseFirst\Ass\AppSetting.Json\obj\Debug\net5.0-windows\ref\AppSetting.Json.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\AppSetting.Json\bin\Debug\net5.0-windows\appsetting.json
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\AppSetting.Json\bin\Debug\net5.0-windows\AppSetting.Json.deps.json
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\AppSetting.Json\bin\Debug\net5.0-windows\AppSetting.Json.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\AppSetting.Json\bin\Debug\net5.0-windows\AppSetting.Json.pdb
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.csproj.AssemblyReference.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.AssemblyInfoInputs.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.AssemblyInfo.cs
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.csproj.CoreCompileInputs.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\AppSetting.Json\obj\Debug\net5.0-windows\refint\AppSetting.Json.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\AppSetting.Json\obj\Debug\net5.0-windows\AppSetting.Json.pdb
+D:\VisualStudio_SourceCode\FPT_Source C#\ASM1_PRN\ASM1_PRN3\AppSetting.Json\obj\Debug\net5.0-windows\ref\AppSetting.Json.dll
